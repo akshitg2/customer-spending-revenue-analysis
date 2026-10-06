@@ -56,13 +56,3 @@ DAX was used to create revenue calculations, weekly revenue measures, week-over-
 
 [View DAX Measures & Calculated Columns](dax-measures.md)
 
-## Project Structure
-
-```text
-customer-spending-revenue-analysis/
-│
-├── README.md
-├── dax-measures.md
-├── credit-card-transaction-report.png
-└── credit-card-customer-report.png
-```
